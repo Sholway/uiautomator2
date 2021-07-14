@@ -1,0 +1,2 @@
+# uiautomator2
+用uiautomator2控制安卓手机发QQ说说
